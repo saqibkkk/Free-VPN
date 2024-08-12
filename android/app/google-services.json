@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196490481250",
+    "project_id": "free-vpn-32f5a",
+    "storage_bucket": "free-vpn-32f5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196490481250:android:5f09eb7e4c91bccb1d0b3b",
+        "android_client_info": {
+          "package_name": "com.Saqib.freeVPN"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb0noOzybDnVn7GG3LsusxqDvO4cAj6Gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
